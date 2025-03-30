@@ -13,9 +13,6 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubengamarro&show_icons=true&theme=dark)
-
 ## 🌍 Connect with Me
 - **GitHub:** [rubengamarro](https://github.com/rubengamarro)
 - **LinkedIn:** [Rubén Gamarro](http://www.linkedin.com/in/ruben-gamarro-b57581329)
